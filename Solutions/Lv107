@@ -1,0 +1,12 @@
+// Q: Convert centimeters into meters and inches.
+#include<stdio.h>
+int main()
+{
+    float cm;
+    printf("Enter centimeter value: ");
+    scanf("%f", &cm);
+    float m = cm / 100;
+    float i = cm / 2.54;
+    printf("Meter: %.3f\nInch: %.3f", m, i);
+    return 0;
+}
