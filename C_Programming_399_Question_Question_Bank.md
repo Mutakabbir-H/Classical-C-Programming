@@ -39,7 +39,7 @@ Total 399 questions for C programming from absolute initial stage to last stage 
 
 - 6. Convert total days into years, weeks and days.
 
-- 7. Convert centimeters into meters and centimeters.
+- 7. Convert centimeters into meters and inches.
 
 - 8. Convert kilograms into grams and milligrams.
 
